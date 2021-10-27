@@ -1,0 +1,88 @@
+body{
+	background-color: #F0EBD8;
+	color: #748CAB;
+	font-family: Helvetica;
+	width: 700px;
+	margin: 40px auto;
+font-size: 15px;
+letter-spacing: 2px;
+line-height: 2;
+
+}
+
+h2, h3 {
+font-family: 'Helvetica', ;
+}
+
+h1 {color: #1D2D44;
+font-family: 'Italianno', cursive ;
+font-weight: bolder;
+letter-spacing: 1px;
+font-size: 50px;
+text-align: center;
+padding: 1px;
+margin: 1px;
+
+}
+
+a {color: #FFC857;
+text-align:center;
+text-decoration: none;
+
+}
+
+a:hover {
+	color:#1D2D44;
+	text-decoration: none;
+
+}
+
+h2 {color: #1D2D44;
+font-weight: bold;
+letter-spacing: 1px;
+font-size: 40px;
+text-align: center;
+}
+
+h3 {color: #3E5C76;
+font-weight: lighter;
+letter-spacing: 1px;
+font-size: 30px;
+
+}
+
+p {text-align: center;
+} 
+		
+div {
+	background: white;
+	border: 2px solid ;
+	margin: 10px auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.6);
+	padding: 30px;
+}
+
+#ph {
+	width: 200px;
+	margin: auto;
+	border-radius: 50%;
+	border: 5px solid #F0EBD8;
+}
+
+.Audencia-Business-School {
+	color: #1D2D44;
+
+}
+
+.logo:hover {
+	transform: scale(1.25);
+	
+	box-sizing: 150px;
+	size: 150px;
+	resize: 150px;
+	
+}
+}
